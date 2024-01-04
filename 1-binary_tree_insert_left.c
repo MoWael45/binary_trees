@@ -2,7 +2,8 @@
 
 /**
  * binary_tree_insert_left - Inserts a node to the left of the parent
- * If a left child already exists, it shifts it down a level and adds the new node as the first left child
+ * If a left child already exists, it shifts it down a level
+ * and adds the new node as the first left child
  * @parent: Parent node to which the left child is added
  * @value: Value of the new node
  * Return: Pointer to the new node or NULL if it fails
